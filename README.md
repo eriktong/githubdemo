@@ -1,8 +1,9 @@
 # githubdemo
 
+**Live Demo:** https://eriktong.github.io/githubdemo/
+
 ![Pages Deploy](https://github.com/eriktong/githubdemo/actions/workflows/pages.yml/badge.svg) ![Last commit](https://img.shields.io/github/last-commit/eriktong/githubdemo) 
 
-**Live Demo:** [https://eriktong.github.io/githubdemo/](https://eriktong.github.io/githubdemo/)
 
 > General GitHub demo playground.
 
